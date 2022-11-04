@@ -1,0 +1,15 @@
+{
+  "name": "me.enpiech.io",
+  "version": "1.0.0",
+  "displayName": "IO",
+  "description": "This is a io package",
+  "unity": "2021.3",
+  "keywords": [
+    "io"
+  ],
+  "author": {
+    "name": "Enpiech",
+    "email": "enpiech@gmail.com",
+    "url": "https://github.com/enpiech"
+  }
+}
