@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Security.Cryptography;
-using IO.Scripts.Data;
+using Enpiech.IO.Runtime.Data;
 using UnityAtoms;
 using UnityEngine;
 
-namespace IO.Scripts.Functions
+namespace Enpiech.IO.Runtime.Functions
 {
     [EditorIcon("atom-icon-purple")]
     [CreateAssetMenu(menuName = "Unity Atoms/Function/IO/Read Encrypted Data", fileName = "FC_ReadEncryptedData")]

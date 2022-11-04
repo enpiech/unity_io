@@ -2,7 +2,7 @@
 using System.IO;
 using UnityEngine;
 
-namespace IO.Scripts.Data
+namespace Enpiech.IO.Runtime.Data
 {
     [Serializable]
     public class ReadFileRequestDto

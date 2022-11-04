@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Security.Cryptography;
-using IO.Scripts.Data;
+using Enpiech.IO.Runtime.Data;
 using UnityAtoms;
 using UnityEngine;
 
-namespace IO.Scripts.Actions
+namespace Enpiech.IO.Runtime.Actions
 {
     [EditorIcon("atom-icon-purple")]
     [CreateAssetMenu(menuName = "Unity Atoms/Actions/IO/Write Encrypted Data", fileName = "AC_WriteEncryptedData")]
